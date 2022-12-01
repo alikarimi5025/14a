@@ -17,7 +17,7 @@ anda,
 riza,
 dishad,
 tobias,
-ali,
+ali karimi, ali.karimi@studerande.movant.se, https://github.com/alikarimi5025/4a-files
 sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
 syed,
 ahmed m,
